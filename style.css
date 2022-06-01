@@ -137,3 +137,10 @@ footer {
     color: #FFF;
     font-size: 13px;
 }
+footer a {
+    text-decoration: none;
+    color: #fff;
+}
+footer a:hover {
+    color: #000;
+}
